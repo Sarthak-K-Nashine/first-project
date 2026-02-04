@@ -1,2 +1,2 @@
-# first-project
-learning
+print("hello world")
+
